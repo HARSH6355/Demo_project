@@ -1,9 +1,7 @@
-# Demo_project
+#  🎓 Student Performance Prediction (ML Project)
 ### Software and tools requirement
 1. [Github account](https://github.com)
 2. [VS code account](https://code.visualstudio.com)
-
-# 🎓 Student Performance Prediction (ML Project)
 
 ## 📌 Overview
 
